@@ -1,0 +1,4 @@
+Parole chiavi(termini nuovi):
+
+Slicing = è un meccanismo attraverso il quale recuperiamo una parte di una lista in python
+List comprehension = costruiamo una lista scrivendo delle parentesi quadre le istruzioni per generare i singoli elementi della lista
