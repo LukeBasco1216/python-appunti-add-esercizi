@@ -2,3 +2,8 @@ Parole chiavi(termini nuovi):
 
 Slicing = è un meccanismo attraverso il quale recuperiamo una parte di una lista in python
 List comprehension = costruiamo una lista scrivendo delle parentesi quadre le istruzioni per generare i singoli elementi della lista
+
+
+Una FUNZIONE è un costrutto sintatticoche permette di ragruppare una serie di istruzione, ripetute in una programma puo avere uno o più argomenti o zero,
+cioe valore d'ingresso su cui avviene l'elaborazione, deve avere anche un output o in uscita.
+
