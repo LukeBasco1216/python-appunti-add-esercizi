@@ -60,4 +60,25 @@ RICURSIONE
 
 Si ha una ricorsione quando una procedura o funzione richiama direttamente sé stessa all'interno della propria definizione
 
+----
 
+filter()
+
+Questa funzione filtra un oggetto iterabile selezionando solo gli elementi che rispondono ad un determinato predicato. 
+
+map()
+
+questa funzione prendete una funzione e un oggetto iterabile (tipo una lista) come argomenti, e restituisce un nuovo oggetto iterabile (tipo una nuova lista)  con la funzione applicata per ciascun argomento.
+
+----
+
+Fattoriale di un numero : 
+
+il fattoriale di un numero è il prodotto che otteniamo moltiplicando tale numero per tutti i numeri 
+(interi e positivi, cioè maggiori di zero) che sono minori del numero stesso.
+
+----
+
+numeri fibonacci : 
+
+La serie di Fibonacci è una successione di numeri interi i cui primi due elementi sono 1 e 1, e ciascun altro elemento è uguale alla somma dei due termini precedenti.
