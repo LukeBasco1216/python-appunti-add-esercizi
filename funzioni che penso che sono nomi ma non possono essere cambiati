@@ -1,0 +1,3 @@
+list(map(lambda x: quadrato(x), numeri))
+
+#list non è un nome ma è una funzione ---> list()
