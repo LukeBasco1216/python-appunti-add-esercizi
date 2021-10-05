@@ -1,5 +1,7 @@
 Parole chiavi(termini nuovi):
 
+parametro = argomento
+
 Slicing = è un meccanismo attraverso il quale recuperiamo una parte di una lista in python
 List comprehension = costruiamo una lista scrivendo delle parentesi quadre le istruzioni per generare i singoli elementi della lista
 
@@ -7,16 +9,55 @@ List comprehension = costruiamo una lista scrivendo delle parentesi quadre le is
 Una FUNZIONE è un costrutto sintatticoche permette di ragruppare una serie di istruzione, ripetute in una programma puo avere uno o più argomenti o zero,
 cioe valore d'ingresso su cui avviene l'elaborazione, deve avere anche un output o in uscita.
 
-parametro formale = è il nome allinterno della parentesi della funzione 
+----
+
+parametro formale = è il nome all'interno della parentesi della funzione 
 
 es
 
 def scambia(lista):           # lista e il parametro formale
 
-parametro attuale = è il nome dellargomento nella programma
+parametro attuale = è il nome dell'argomento nella programma
 
 es
 
 def scambia(lista):
 
 elementi = [int(input("inserisci numeri: ")) for i in range(10)]    #  elementi è il parametro attuale
+
+----
+
+******* la funzione non deve avere mai un print oppure un input all'interno *******
+
+----
+
+map = è una funzione che applica ad ogni elemento di una lista(secondo parametro) una funzione
+
+map(funzione, lista)
+
+----
+
+COME COPIARE UNA LISTA CON LA LIST COMPREHENSION
+
+lista2 = [int(elemento) for elemento in lista]
+
+----
+
+COME COPIARE UNA LISTA CON LA LIST COMPREHENSION APPLICATO A UNA FUNZIONE
+
+def SOST(valore):
+  if valore < 0:
+    return 0
+  else:
+    return valore
+    
+lista = [int(input("inserisci numeri: ")) for i in range(10)]
+lista2 = [SOST(elemento) for elemento in lista]    # QUESTOOO
+
+----
+
+RICURSIONE 
+
+Si ha ricorsione diretta quando una procedura o funzione richiama direttamente sé stessa all'interno della propria definizione
+
+
