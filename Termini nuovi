@@ -58,6 +58,6 @@ lista2 = [SOST(elemento) for elemento in lista]    # QUESTOOO
 
 RICURSIONE 
 
-Si ha ricorsione diretta quando una procedura o funzione richiama direttamente sé stessa all'interno della propria definizione
+Si ha una ricorsione quando una procedura o funzione richiama direttamente sé stessa all'interno della propria definizione
 
 
