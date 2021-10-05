@@ -7,3 +7,16 @@ List comprehension = costruiamo una lista scrivendo delle parentesi quadre le is
 Una FUNZIONE è un costrutto sintatticoche permette di ragruppare una serie di istruzione, ripetute in una programma puo avere uno o più argomenti o zero,
 cioe valore d'ingresso su cui avviene l'elaborazione, deve avere anche un output o in uscita.
 
+parametro formale = è il nome allinterno della parentesi della funzione 
+
+es
+
+def scambia(lista):           # lista e il parametro formale
+
+parametro attuale = è il nome dellargomento nella programma
+
+es
+
+def scambia(lista):
+
+elementi = [int(input("inserisci numeri: ")) for i in range(10)]    #  elementi è il parametro attuale
