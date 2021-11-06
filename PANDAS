@@ -27,3 +27,13 @@
          - Pandas è scritto in Python, il che lo rende molto più aperto rispetto ad Excel
          - Excel tende a diventare più lento con tabelle più pesanti
          
+         PER CONTROLLARE SE UNA COLONNA HA UN VALORE CHE VOGLIAMO:
+         
+                  .str.startswith
+         Python standard library string method.
+
+                  .str.endswith
+         Same as startswith, but tests the end of string.
+
+                  .str.contains
+         Tests if string element contains a pattern.
