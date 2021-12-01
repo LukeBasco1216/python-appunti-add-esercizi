@@ -1,0 +1,39 @@
+ PANDAS
+         
+         
+         cos' è?  :
+         
+         
+         è una libreria di pandas per l'analisi e manipolazione dei dati, open source, veloce, potente, flessibile e facile da usare per Python.
+         
+         
+         cosa si puo fare?  :
+         
+         
+         - importare dati (nella mia programma)
+         
+         - riordinare i dati
+         
+         - esplorare i dati
+         
+         - Elaborare e preparare i tuoi dati per l'analisi
+         
+         - Analizzare i tuoi dati
+         
+         
+         Perché Pandas e non Excel?  :
+          
+          
+         - Pandas è scritto in Python, il che lo rende molto più aperto rispetto ad Excel
+         - Excel tende a diventare più lento con tabelle più pesanti
+         
+         PER CONTROLLARE SE UNA COLONNA HA UN VALORE CHE VOGLIAMO:
+         
+                  .str.startswith
+         Python standard library string method.
+
+                  .str.endswith
+         Same as startswith, but tests the end of string.
+
+                  .str.contains
+         Tests if string element contains a pattern.
