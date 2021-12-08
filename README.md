@@ -7,3 +7,5 @@ Linguaggi:
 - Visual Basic
 - Python
 - JavaScript
+- CSS
+- HTML
