@@ -24,7 +24,8 @@ in una delle due entita se la relazione e tra tanti elementi.
 
 Big Data : e una raccolta di enorme quantita di informazione o meglio di data.
 
-modello logico : e la descrizione di una relazione attraverso il simbolismo.
+modello logico : Il modello logico discende dal modello concettuale e disegna un'architettura che tiene conto delle 
+strutture proprie di quel particolare tipo di database.
 
 MS SQL SERVER : in una tabella sql ci sono le colonne, poi i record/righe/tuple composto da tanti campi, infine un campo che e uguale a 1 informazione.
 
