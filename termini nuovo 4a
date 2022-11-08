@@ -34,3 +34,5 @@ DDL : data definition language / linguaggio di definizione di data.
 DML : data manipulation language / lignuaggio di manipolazione di data.
 
 JSON : javascript object notation
+
+Polling : controlla lo stato come un ciclo ripetuto
